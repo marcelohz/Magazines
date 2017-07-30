@@ -1,0 +1,16 @@
+E:\dev\Sources\Sources\_old\Sources\Magazines\Magazines\obj\Release\Interop.ADODB.dll
+E:\dev\Sources\Sources\_old\Sources\Magazines\Magazines\obj\Release\Interop.JRO.dll
+E:\dev\Sources\Sources\_old\Sources\Magazines\Magazines\obj\Release\Magazines.csproj.ResolveComReference.cache
+E:\dev\Sources\Sources\_old\Sources\Magazines\Magazines\bin\Release\Magazines.exe
+E:\dev\Sources\Sources\_old\Sources\Magazines\Magazines\bin\Release\Magazines.pdb
+E:\dev\Sources\Sources\_old\Sources\Magazines\Magazines\bin\Release\Interop.ADODB.dll
+E:\dev\Sources\Sources\_old\Sources\Magazines\Magazines\bin\Release\Interop.JRO.dll
+E:\dev\Sources\Sources\_old\Sources\Magazines\Magazines\obj\Release\Magazines.Main.resources
+E:\dev\Sources\Sources\_old\Sources\Magazines\Magazines\obj\Release\Magazines.Management.resources
+E:\dev\Sources\Sources\_old\Sources\Magazines\Magazines\obj\Release\Magazines.EditReg.resources
+E:\dev\Sources\Sources\_old\Sources\Magazines\Magazines\obj\Release\Magazines.Registration.resources
+E:\dev\Sources\Sources\_old\Sources\Magazines\Magazines\obj\Release\Magazines.Properties.Resources.resources
+E:\dev\Sources\Sources\_old\Sources\Magazines\Magazines\obj\Release\Magazines.Search.resources
+E:\dev\Sources\Sources\_old\Sources\Magazines\Magazines\obj\Release\Magazines.csproj.GenerateResource.Cache
+E:\dev\Sources\Sources\_old\Sources\Magazines\Magazines\obj\Release\Magazines.exe
+E:\dev\Sources\Sources\_old\Sources\Magazines\Magazines\obj\Release\Magazines.pdb
